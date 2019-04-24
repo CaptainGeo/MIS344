@@ -9,7 +9,7 @@ using CrystalDecisions.Shared;
 using CrystalDecisions.CrystalReports.Engine;
 using CrystalDecisions.Windows.Forms;
 
-namespace Lab1PartD_AH
+namespace Lab2PartA_AHardt
 {
     public partial class Form1 : Form
     {

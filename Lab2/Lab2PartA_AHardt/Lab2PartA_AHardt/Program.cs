@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace Lab1PartD_AH
+namespace Lab2PartA_AHardt
 {
     static class Program
     {

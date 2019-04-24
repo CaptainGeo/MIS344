@@ -2,18 +2,18 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Lab1PartD_AH")]
+[assembly: AssemblyTitle("Lab2PartA_AHardt")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lab1PartD_AH")]
+[assembly: AssemblyProduct("Lab2PartA_AHardt")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("d707de10-9d2a-4ac0-aa68-320911dbe4cc")]
+[assembly: Guid("aed39175-736e-42f4-9ab5-2946773f8bd5")]
 
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]

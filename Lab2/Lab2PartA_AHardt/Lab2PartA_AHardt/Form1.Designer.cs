@@ -1,4 +1,4 @@
-﻿namespace Lab1PartD_AH
+﻿namespace Lab2PartA_AHardt
 {
     partial class Form1
     {
@@ -18,7 +18,7 @@
         private void InitializeComponent()
         {
             this.crystalReportViewer1 = new CrystalDecisions.Windows.Forms.CrystalReportViewer();
-            this.CrystalReport11 = new Lab1PartD_AH.CrystalReport1();
+            this.CrystalReport11 = new Lab2PartA_AHardt.CrystalReport1();
             this.SuspendLayout();
             // 
             // crystalReportViewer1
